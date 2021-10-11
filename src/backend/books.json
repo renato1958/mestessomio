@@ -1,23 +1,23 @@
 [
   {
-    "title": "War and Peace",
+    "title": "Guerra e Pace",
     "author": "Lev Tolstoj",
     "country": "Russia",
-    "url": "war-and-peace",
+    "url": "guerra-e-pace",
     "id": "1"
   },
   {
     "title": "I Promessi Sposi",
     "author": "Alessandro Manzoni",
-    "country": "Italy",
+    "country": "Italia",
     "url": "i-promessi-sposi",
     "id": "2"
   },
   {
-    "title": "La Chartreuse de Parme",
+    "title": "La Certosa di Parma",
     "author": "Stendhal",
-    "country": "France",
-    "url": "la-chartreuse-de-parme",
+    "country": "Francia",
+    "url": "la-certosa-di-parma",
     "id": "3"
   }
 ]
