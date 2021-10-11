@@ -1,25 +1,12 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 in CodeSandbox!" />
+  <Navigation />
 </template>
 
 <script>
-import HelloWorldVue from "./components/HelloWorld.vue";
+import Navigation from "@/views/TheNavigation";
 export default {
   name: "App",
-  components: {
-    HelloWorld: HelloWorldVue,
-  },
+  components: { Navigation },
 };
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

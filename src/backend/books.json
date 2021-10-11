@@ -1,0 +1,20 @@
+[
+  {
+    "title": "War and Peace",
+    "author": "Lev Tolstoj",
+    "country": "Russia",
+    "id": "1"
+  },
+  {
+    "title": "I Promessi Sposi",
+    "author": "Alessandro Manzoni",
+    "country": "Italy",
+    "id": "2"
+  },
+  {
+    "title": "La Chartreuse de Parme",
+    "author": "Stendhal",
+    "country": "France",
+    "id": "3"
+  }
+]
