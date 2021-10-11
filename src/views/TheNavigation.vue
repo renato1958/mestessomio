@@ -1,6 +1,9 @@
 <template>
+  <h1>Rassegna di libri</h1>
   <div id="navigation" v-for="book in books" :key="book.id">
-    <h3>{{ book.title }}</h3>
+    <router-link :to="`/libri/${book.url}`">
+      <h3>{{ book.title }}</h3>
+    </router-link>
   </div>
 </template>
 
