@@ -14,6 +14,16 @@ export default {
   flex-direction: column;
 }
 
+@media only screen and (min-width: 960px) {
+  #navigation {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 75%;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+}
+
 #navigation a:link,
 a:visited {
   color: #223344;
