@@ -19,5 +19,12 @@
     "country": "Francia",
     "url": "la-certosa-di-parma",
     "id": "3"
+  },
+  {
+    "title": "Il Maestro e Margherita",
+    "author": "Michail Afanasjevich Bulgakov",
+    "country": "Russia",
+    "url": "il-meastro-e-margherita",
+    "id": "4"
   }
 ]

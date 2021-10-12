@@ -8,3 +8,9 @@ export default {
 };
 </script>
 
+<style>
+#navigation {
+  display: flex;
+  flex-direction: row;
+}
+</style>
