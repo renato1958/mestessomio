@@ -6,7 +6,10 @@ import books from "@/backend/books";
 const routes = [
   {
     path: "/",
-    component: Navigation
+    component: Navigation,
+    meta: {
+      title: "Home Page"
+    }
   },
   {
     path: "/libri/:slug",
