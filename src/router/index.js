@@ -15,10 +15,7 @@ const routes = [
     path: "/libri/:slug",
     component: Libro,
     meta: {
-      title: books.find(
-        (book) =>
-          book.title === book.slug.replace(/(\bw+)/gi, (p1) => p1.toUpperCase())
-      )
+      title: books.find((book) => book.title === book.slug.replace(/-/gi, " "))
     }
   }
 ];
