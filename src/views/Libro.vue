@@ -13,7 +13,7 @@ export default {
   name: "Libro",
   computed: {
     book() {
-      return books.find((book) => book.url === this.$route.params.url);
+      return books.find((book) => book.slug === this.$route.params.slug);
     },
   },
 };

@@ -3,28 +3,28 @@
     "title": "Guerra e Pace",
     "author": "Lev Tolstoj",
     "country": "Russia",
-    "url": "guerra-e-pace",
+    "slug": "guerra-e-pace",
     "id": "1"
   },
   {
     "title": "I Promessi Sposi",
     "author": "Alessandro Manzoni",
     "country": "Italia",
-    "url": "i-promessi-sposi",
+    "slug": "i-promessi-sposi",
     "id": "2"
   },
   {
     "title": "La Certosa di Parma",
     "author": "Stendhal",
     "country": "Francia",
-    "url": "la-certosa-di-parma",
+    "slug": "la-certosa-di-parma",
     "id": "3"
   },
   {
     "title": "Il Maestro e Margherita",
     "author": "Michail Afanasjevich Bulgakov",
     "country": "Russia",
-    "url": "il-meastro-e-margherita",
+    "slug": "il-meastro-e-margherita",
     "id": "4"
   }
 ]

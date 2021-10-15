@@ -4,7 +4,7 @@
     <router-link
       v-for="book in books"
       :key="book.id"
-      :to="`/libri/${book.url}`"
+      :to="`/libri/${book.slug}`"
     >
       <h3>{{ book.title }}</h3>
     </router-link>
